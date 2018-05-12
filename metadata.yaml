@@ -1,4 +1,8 @@
 _repo: The-Stickit-Minister-s-Wooing-and-Other-Galloway-Stories_49342
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49342-rst/images/img-cover.jpg
 creator:
   author:
     agent_name: Crockett, S. R. (Samuel Rutherford)
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1590
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Rutherford_Crockett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49342#The-Stickit-Minister-s-Wooing-and-Other-Galloway-Stories
 gutenberg_issued: '2015-07-01'
 gutenberg_type: Text
 identifiers:
